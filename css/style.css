@@ -1,0 +1,9 @@
+.language-switcher select {
+  min-width: 70px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.language-switcher select:focus {
+  box-shadow: none;
+}
